@@ -1,0 +1,8 @@
+document.o
+gap_buffer.o
+log.o
+main.o
+status.o
+terminal.o
+wee
+window.o
